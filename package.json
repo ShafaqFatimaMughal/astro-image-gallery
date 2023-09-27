@@ -11,5 +11,7 @@
   "devDependencies": {
     "astro": "^1.2.1"
   },
-  "dependencies": {}
+  "dependencies": {
+    "netlify-plugin-cloudinary": "^1.11.0"
+  }
 }
